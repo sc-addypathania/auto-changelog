@@ -1,1 +1,1 @@
-﻿console.log("hello from test2");
+﻿console.log("fixed the bug");
